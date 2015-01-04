@@ -12,7 +12,8 @@ rvm:
   - 2.1
   - ruby-head
   - rbx-2
-  - jruby
+  - jruby-19mode
+  - jruby-head
   - ree
 notifications:
   email: false
